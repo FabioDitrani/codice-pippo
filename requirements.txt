@@ -1,0 +1,5 @@
+numpy
+corner
+astropy
+ultranest
+matplotlib
